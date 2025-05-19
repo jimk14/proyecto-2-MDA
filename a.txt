@@ -1,0 +1,809 @@
+10
+10 58
+partitions 10
+partitions 3
+union 3 1
+union 9 6
+union 1 5
+partitions 2
+partitions 8
+partitions 6
+union 2 4
+partitions 8
+union 6 4
+union 9 7
+union 9 7
+partitions 2
+union 6 8
+union 2 5
+union 10 3
+partitions 2
+union 1 8
+partitions 5
+union 4 1
+partitions 1
+union 3 2
+union 9 1
+partitions 7
+union 4 6
+partitions 10
+partitions 7
+partitions 5
+partitions 2
+partitions 7
+union 2 1
+union 9 1
+union 4 7
+union 5 4
+union 10 9
+union 7 1
+union 4 3
+union 9 4
+union 7 8
+partitions 1
+partitions 4
+partitions 9
+union 7 8
+partitions 6
+union 7 9
+union 3 6
+partitions 10
+partitions 5
+partitions 4
+partitions 7
+partitions 2
+union 4 8
+union 8 5
+union 7 5
+partitions 4
+partitions 5
+partitions 1
+27 59
+union 15 7
+partitions 6
+partitions 14
+partitions 23
+partitions 10
+partitions 25
+partitions 18
+union 21 20
+union 10 19
+union 17 1
+union 20 18
+union 20 15
+union 25 6
+partitions 23
+union 12 23
+union 11 9
+union 12 11
+union 7 24
+partitions 17
+union 7 20
+union 13 3
+partitions 2
+union 6 19
+partitions 22
+union 4 10
+partitions 8
+union 8 9
+union 10 5
+union 2 25
+partitions 21
+union 2 6
+union 25 2
+partitions 1
+union 8 20
+partitions 6
+partitions 6
+partitions 20
+union 22 3
+partitions 5
+union 7 2
+union 2 17
+partitions 18
+partitions 1
+partitions 3
+partitions 7
+partitions 3
+partitions 10
+union 7 18
+partitions 11
+partitions 12
+partitions 2
+partitions 16
+partitions 19
+partitions 27
+union 10 3
+union 13 18
+union 23 24
+partitions 27
+union 7 27
+14 86
+partitions 14
+partitions 10
+partitions 11
+partitions 5
+partitions 8
+partitions 7
+partitions 7
+partitions 2
+union 11 6
+union 12 14
+partitions 8
+union 14 7
+union 12 11
+union 2 14
+partitions 1
+partitions 13
+partitions 13
+union 13 11
+union 4 12
+partitions 4
+union 5 7
+partitions 5
+partitions 11
+union 3 9
+partitions 12
+partitions 4
+union 12 9
+union 13 11
+union 10 11
+partitions 9
+union 2 8
+union 3 13
+partitions 7
+partitions 8
+union 2 12
+union 4 12
+partitions 3
+partitions 12
+union 4 9
+partitions 6
+partitions 2
+partitions 14
+union 7 2
+partitions 2
+union 11 6
+union 6 10
+partitions 12
+partitions 13
+partitions 11
+partitions 8
+partitions 3
+partitions 5
+union 5 8
+union 5 14
+partitions 13
+partitions 9
+partitions 7
+union 11 2
+partitions 3
+partitions 5
+union 12 10
+partitions 12
+union 10 4
+union 7 10
+partitions 1
+union 14 7
+union 11 5
+partitions 6
+partitions 4
+partitions 12
+partitions 10
+partitions 1
+union 9 4
+union 14 2
+union 6 5
+partitions 10
+partitions 6
+partitions 14
+union 8 6
+partitions 5
+union 4 3
+union 10 13
+partitions 2
+union 1 8
+union 2 3
+partitions 2
+36 70
+union 27 33
+union 32 10
+partitions 31
+partitions 16
+union 27 23
+union 5 1
+partitions 28
+partitions 23
+partitions 9
+union 35 27
+partitions 6
+partitions 20
+union 32 2
+union 26 2
+partitions 18
+union 30 29
+union 8 31
+partitions 13
+partitions 9
+partitions 36
+union 11 27
+partitions 23
+partitions 17
+union 24 36
+partitions 35
+union 30 14
+union 31 14
+union 4 18
+partitions 36
+partitions 25
+partitions 29
+partitions 6
+union 26 36
+union 1 11
+partitions 12
+union 1 16
+union 16 28
+partitions 1
+union 13 25
+union 12 28
+partitions 34
+union 8 33
+union 26 27
+union 35 20
+union 36 9
+union 9 18
+union 8 2
+partitions 25
+union 22 15
+partitions 33
+partitions 25
+union 7 23
+union 15 16
+union 9 27
+partitions 14
+partitions 4
+partitions 3
+partitions 34
+union 32 30
+partitions 15
+union 16 25
+union 2 6
+union 16 21
+partitions 9
+union 10 13
+partitions 30
+partitions 5
+partitions 27
+partitions 27
+partitions 33
+43 61
+partitions 8
+partitions 14
+partitions 9
+partitions 22
+union 7 37
+partitions 24
+union 11 33
+partitions 31
+partitions 9
+partitions 24
+union 4 11
+union 6 41
+union 8 10
+partitions 11
+partitions 5
+partitions 37
+union 29 19
+union 1 26
+partitions 19
+union 38 8
+partitions 39
+union 16 35
+partitions 23
+union 38 39
+union 24 27
+partitions 34
+partitions 14
+union 5 31
+union 4 30
+partitions 19
+partitions 9
+partitions 6
+partitions 21
+union 14 16
+partitions 36
+partitions 38
+partitions 25
+union 23 43
+partitions 19
+partitions 39
+union 41 14
+partitions 23
+union 16 26
+partitions 15
+partitions 1
+union 15 5
+union 6 35
+partitions 26
+union 6 20
+partitions 1
+union 32 8
+partitions 15
+partitions 28
+union 32 21
+partitions 21
+partitions 31
+partitions 26
+union 42 19
+partitions 24
+union 1 29
+partitions 31
+46 91
+partitions 24
+partitions 20
+partitions 41
+partitions 6
+partitions 16
+partitions 15
+partitions 34
+partitions 32
+union 10 2
+partitions 23
+union 18 39
+partitions 10
+partitions 25
+partitions 38
+union 46 37
+partitions 45
+partitions 7
+partitions 36
+partitions 20
+union 11 23
+union 3 7
+union 11 7
+union 44 37
+partitions 37
+union 21 20
+partitions 34
+union 31 13
+union 33 31
+partitions 45
+union 28 20
+union 21 12
+partitions 9
+partitions 2
+union 34 3
+union 10 3
+union 24 13
+union 9 30
+union 5 14
+union 8 24
+union 7 14
+partitions 38
+partitions 38
+partitions 6
+union 10 21
+partitions 21
+partitions 11
+union 11 37
+partitions 14
+union 22 38
+partitions 29
+union 45 20
+union 40 1
+union 41 11
+union 40 24
+union 32 33
+partitions 35
+partitions 40
+union 24 29
+union 7 12
+union 14 7
+union 8 36
+partitions 23
+union 34 5
+partitions 13
+partitions 14
+partitions 16
+partitions 28
+partitions 6
+union 42 38
+partitions 1
+union 6 12
+union 40 25
+union 26 9
+partitions 6
+union 12 45
+partitions 7
+union 22 13
+partitions 36
+partitions 3
+partitions 20
+partitions 25
+union 44 45
+partitions 39
+partitions 28
+union 19 20
+union 4 46
+union 27 13
+union 12 19
+union 45 28
+union 22 13
+partitions 20
+10 90
+partitions 4
+partitions 2
+union 10 8
+union 9 4
+union 8 9
+partitions 4
+union 8 9
+union 5 10
+partitions 1
+union 3 8
+partitions 2
+union 2 3
+partitions 6
+union 4 5
+partitions 10
+union 6 1
+partitions 4
+union 1 9
+union 3 9
+partitions 3
+partitions 3
+union 7 8
+union 2 4
+union 6 7
+partitions 1
+union 8 3
+partitions 10
+partitions 3
+partitions 7
+partitions 3
+union 7 1
+union 3 1
+partitions 4
+union 8 9
+union 6 8
+partitions 6
+partitions 7
+partitions 3
+partitions 1
+union 6 1
+partitions 1
+partitions 4
+partitions 3
+partitions 7
+union 10 8
+partitions 6
+union 9 10
+partitions 9
+partitions 2
+partitions 2
+partitions 10
+partitions 7
+partitions 3
+partitions 6
+union 10 5
+union 3 8
+partitions 6
+union 7 3
+partitions 4
+union 5 2
+union 2 10
+union 7 1
+union 2 4
+union 10 1
+union 3 4
+partitions 7
+partitions 8
+partitions 9
+partitions 6
+partitions 1
+union 3 6
+union 4 10
+partitions 9
+partitions 5
+union 4 8
+partitions 8
+partitions 8
+union 2 5
+partitions 7
+union 1 5
+partitions 4
+union 10 7
+union 7 10
+partitions 5
+union 3 8
+partitions 4
+partitions 5
+union 3 5
+union 2 7
+union 8 10
+44 96
+union 44 15
+union 44 29
+union 31 20
+partitions 26
+union 26 21
+partitions 15
+partitions 8
+partitions 24
+partitions 41
+union 6 35
+partitions 41
+union 24 25
+partitions 18
+partitions 43
+partitions 33
+partitions 19
+union 6 30
+partitions 3
+union 36 43
+partitions 39
+partitions 20
+union 25 10
+partitions 13
+union 18 39
+partitions 2
+partitions 41
+partitions 8
+partitions 31
+partitions 14
+union 28 24
+partitions 23
+partitions 43
+partitions 23
+partitions 25
+union 34 39
+partitions 42
+union 14 2
+partitions 16
+union 19 11
+partitions 9
+union 3 35
+partitions 38
+union 31 18
+union 25 16
+partitions 20
+union 32 21
+union 20 32
+partitions 20
+partitions 6
+partitions 7
+union 15 1
+union 12 20
+union 33 13
+partitions 20
+union 19 4
+partitions 37
+union 7 5
+union 34 20
+union 40 27
+partitions 24
+union 4 28
+partitions 41
+partitions 27
+union 23 28
+partitions 19
+union 33 32
+partitions 7
+partitions 27
+partitions 24
+union 18 27
+partitions 17
+union 3 39
+union 41 24
+union 38 36
+union 21 13
+union 39 32
+union 2 18
+union 13 3
+union 15 9
+partitions 20
+partitions 18
+union 27 13
+partitions 11
+partitions 36
+partitions 11
+union 29 4
+partitions 23
+partitions 41
+partitions 40
+union 1 20
+partitions 41
+partitions 29
+partitions 16
+union 17 33
+union 39 1
+partitions 39
+46 87
+partitions 28
+union 3 4
+union 10 24
+union 7 11
+partitions 38
+partitions 33
+union 23 28
+union 16 21
+union 23 33
+partitions 7
+union 13 10
+union 13 14
+union 44 18
+union 1 2
+partitions 43
+partitions 13
+partitions 45
+union 38 25
+union 43 23
+partitions 45
+union 19 29
+union 33 28
+partitions 22
+partitions 13
+partitions 35
+union 25 38
+union 19 4
+union 7 35
+partitions 19
+partitions 1
+union 31 8
+partitions 26
+partitions 28
+union 2 6
+union 32 4
+partitions 22
+partitions 12
+partitions 8
+partitions 33
+partitions 8
+partitions 46
+partitions 7
+partitions 28
+union 46 6
+union 10 45
+partitions 10
+union 6 42
+partitions 46
+union 20 32
+union 9 29
+union 37 22
+union 36 3
+union 45 38
+union 15 45
+partitions 33
+partitions 19
+union 2 24
+union 22 13
+partitions 20
+partitions 34
+partitions 5
+partitions 41
+partitions 17
+partitions 41
+union 32 41
+partitions 5
+union 43 42
+partitions 36
+union 29 27
+partitions 41
+union 36 12
+union 25 39
+union 2 35
+partitions 10
+partitions 42
+union 46 17
+partitions 21
+partitions 46
+union 34 30
+partitions 43
+union 14 30
+partitions 36
+partitions 25
+union 39 4
+partitions 39
+partitions 18
+partitions 7
+19 100
+union 3 13
+union 9 13
+union 1 13
+union 19 14
+partitions 13
+partitions 11
+partitions 6
+partitions 18
+partitions 4
+union 3 5
+union 8 2
+union 5 9
+union 4 16
+partitions 3
+partitions 12
+union 4 5
+union 14 11
+union 17 15
+union 10 15
+union 2 5
+partitions 2
+partitions 19
+union 3 19
+partitions 6
+partitions 3
+union 15 2
+union 19 13
+union 7 4
+union 1 7
+union 3 5
+union 1 3
+partitions 1
+union 9 11
+union 5 9
+union 16 13
+union 13 3
+partitions 1
+union 15 1
+partitions 9
+union 4 14
+union 8 16
+union 15 17
+union 5 2
+partitions 9
+union 15 7
+partitions 12
+union 12 15
+partitions 5
+partitions 16
+partitions 17
+union 1 10
+union 1 18
+union 17 1
+union 13 9
+union 2 19
+partitions 17
+partitions 18
+union 15 14
+union 15 10
+partitions 19
+union 2 16
+union 17 7
+union 15 12
+union 4 15
+union 19 1
+union 17 2
+union 18 2
+union 5 19
+partitions 9
+union 2 17
+partitions 13
+partitions 12
+union 19 9
+partitions 18
+partitions 9
+union 12 8
+union 7 14
+union 18 13
+union 2 9
+union 16 6
+union 19 11
+partitions 6
+union 6 19
+partitions 15
+union 7 1
+partitions 10
+partitions 10
+union 17 9
+partitions 9
+union 12 13
+union 3 2
+partitions 11
+union 10 15
+union 13 8
+partitions 10
+union 11 18
+partitions 8
+union 2 8
+partitions 11
+partitions 2
